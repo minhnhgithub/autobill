@@ -1,0 +1,12 @@
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\bin\Debug\AutoBill.exe
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\bin\Debug\AutoBill.pdb
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.Properties.Resources.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.csproj.GenerateResource.Cache
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.exe
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.pdb
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.BillForm.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\bin\Debug\AutoBill.exe.config
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.LoginForm.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.UsersForm.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.AddUsersForm.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.ChangePasswordForm.resources
