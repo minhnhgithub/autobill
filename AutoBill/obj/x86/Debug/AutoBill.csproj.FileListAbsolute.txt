@@ -10,3 +10,4 @@ C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\
 C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.UsersForm.resources
 C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.AddUsersForm.resources
 C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.ChangePasswordForm.resources
+C:\Users\aschn1\documents\visual studio 2010\Projects\AutoBill\AutoBill\obj\x86\Debug\AutoBill.csprojResolveAssemblyReference.cache

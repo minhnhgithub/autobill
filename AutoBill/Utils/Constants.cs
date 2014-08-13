@@ -8,7 +8,7 @@ namespace AutoBill.Utils
 {
     abstract class Constants
     {
-        public static readonly string CONNECTION_STRING = "Server=.\\SqlExpress1;Database=autobill;User Id=sa;Password=sa;";
+        public static readonly string CONNECTION_STRING = ConfigurationManager.ConnectionStrings["autobill"].ConnectionString;
 
         public static readonly string PES_2_PRICE = ConfigurationManager.AppSettings["pes2Price"];
 
